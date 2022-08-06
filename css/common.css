@@ -34,4 +34,5 @@ button {
 }
 .gallery__list:not(:last-child){
   margin-bottom: 20px;
+  
 }
